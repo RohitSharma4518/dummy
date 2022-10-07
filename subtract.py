@@ -1,4 +1,4 @@
 def substraction(a, b):
     return a-b
 
-print(substraction(23,22))
+print(f"The Out put of subtraction is {substraction(23,12)}")
